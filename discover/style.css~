@@ -309,7 +309,7 @@ th {
 }
 
 #footer-widget{
-	padding: 0px 8px 8px 0px;
+	padding: 8px 0px 8px 0px;
 	color:#6f6f6f;
 }
 

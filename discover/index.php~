@@ -9,7 +9,9 @@
 		<div class="twelve columns">
 		
 		
- <?php?>
+ <?php
+
+    ?>
 			
 <h1><?php if ( is_category() ) {
 		single_cat_title();
@@ -63,8 +65,7 @@
 
 		<?php get_template_part( 'element-boxes', 'index' ); ?>
 
-</div>
-
+	</div>
 <div class="clear"></div>
 
 <!--content-->
